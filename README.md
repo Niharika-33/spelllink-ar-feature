@@ -20,8 +20,6 @@ To complement the written proposal and strengthen product insight, this repo inc
 |------|-------------|
 | `gesture-system.md` | Expanded notes on how gesture recognition would work, and how the system would improve accuracy over time |
 | `user-flow-diagram.png` | Diagram illustrating the flow from invite → duel → replay |
-| `spelllink-wireframes.png` | Low-fidelity wireframes of key screens |
-| `mockups/duel-screen-mockup.png` | Conceptual mockup of the AR duel screen UI |
 
 ---
 
@@ -60,6 +58,4 @@ Users crave deeper interaction in the magical AR experience. SpellLink transform
 
 - [`gesture-system.md`](./gesture-system.md): Explains how gesture patterns like “Zigzag” or “Circle” will be recognized using mobile sensors and refined through feedback.
 - `user-flow-diagram.png`: Visualizes the user journey from initiating a duel to watching the replay.
-- `spelllink-wireframes.png`: Screens showing duel setup, in-game UI, and post-duel screen.
-- `mockups/duel-screen-mockup.png`: Sample visual of AR battle screen with casting and blocking options.
 
